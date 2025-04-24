@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/ranjana-eds-learning/:/",
+    "/content/ranjana-eds-learning/configuration:/.helix/config.json",
+    "/content/ranjana-eds-learning/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/ranjana-eds-learning/"
   ]
 }
