@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1-feLbqEnwBGpBh9w_3Yd9ysaQ-Sxet2r
+  /:
     url: "https://author-p133739-e1306963.adobeaemcloud.com/bin/franklin.delivery/ranjanayadav56/ranjana-eds-learning/main"
     type: "markup"
     suffix: ".html"
