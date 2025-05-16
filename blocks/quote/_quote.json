@@ -39,6 +39,7 @@
         {
           "component": "select",
           "name": "bgClass",
+          "value": "",
           "label": "Background Color",
           "description": "The quote background color",
           "valueType": "string",
@@ -58,22 +59,22 @@
           ]
         },
         {
-            "component": "select",
-            "name": "borderClass",
-            "value": "",
-            "label": "Border Style",
-            "description": "The quote border styles",
-            "valueType": "string",
-            "options": [
-              {
-                "name": "Rounded Borders",
-                "value": "rounded-borders"
-              },
-              {
-                "name": "Diagonal Round Borders",
-                "value": "rounded-diagonal"
-              }
-            ]
+          "component": "select",
+          "name": "borderClass",
+          "value": "",
+          "label": "Border Style",
+          "description": "The quote border styles",
+          "valueType": "string",
+          "options": [
+            {
+              "name": "Rounded Borders",
+              "value": "rounded-borders"
+            },
+            {
+              "name": "Diagonal Round Borders",
+              "value": "rounded-diagonal"
+            }
+          ]
         }
       ]
     }

@@ -235,6 +235,7 @@
       {
         "component": "select",
         "name": "bgClass",
+        "value": "",
         "label": "Background Color",
         "description": "The quote background color",
         "valueType": "string",
