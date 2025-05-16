@@ -6,6 +6,29 @@
     margin: 1rem 0;
 }
 
+.block.quote.bg-blue {
+    background-color: blueviolet;
+    color: white;
+}
+
+.block.quote.bg-red {
+    background-color: #e49393;
+    color: black;
+}
+
+.block.quote.bg-green {
+    background-color: aquamarine;
+    color: black;
+}
+
+.block.quote.rounded-borders {
+    border-radius: 25px;
+}
+
+.block.quote.rounded-diagonal {
+    border-radius: 0 25px;
+}
+
 .block.quote blockquote {
     margin: 16px;
     text-indent: 0;
