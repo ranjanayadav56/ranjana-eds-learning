@@ -253,6 +253,24 @@
             "value": "bg-blue"
           }
         ]
+      },
+      {
+        "component": "select",
+        "name": "classes",
+        "value": "",
+        "label": "Quote Style",
+        "description": "The quote border styles",
+        "valueType": "string",
+        "options": [
+          {
+            "name": "Rounded Borders",
+            "value": "rounded-borders"
+          },
+          {
+            "name": "Diagonal Round Borders",
+            "value": "rounded-diagonal"
+          }
+        ]
       }
     ]
   },
