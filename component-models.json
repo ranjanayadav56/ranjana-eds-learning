@@ -234,7 +234,7 @@
       },
       {
         "component": "select",
-        "name": "bgClass",
+        "name": "classes",
         "value": "",
         "label": "Background Color",
         "description": "The quote background color",
@@ -251,22 +251,6 @@
           {
             "name": "Blue",
             "value": "bg-blue"
-          }
-        ]
-      },
-      {
-        "component": "select",
-        "name": "borderClass",
-        "label": "Border Style",
-        "valueType": "string",
-        "options": [
-          {
-            "name": "Rounded",
-            "value": "rounded-borders"
-          },
-          {
-            "name": "Diagonal",
-            "value": "rounded-diagonal"
           }
         ]
       }
