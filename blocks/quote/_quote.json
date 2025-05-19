@@ -61,19 +61,11 @@
         {
           "component": "select",
           "name": "borderClass",
-          "value": "",
           "label": "Border Style",
-          "description": "The quote border styles",
           "valueType": "string",
           "options": [
-            {
-              "name": "Rounded Borders",
-              "value": "rounded-borders"
-            },
-            {
-              "name": "Diagonal Round Borders",
-              "value": "rounded-diagonal"
-            }
+            { "name": "Rounded", "value": "rounded-borders" },
+            { "name": "Diagonal", "value": "rounded-diagonal" }
           ]
         }
       ]
