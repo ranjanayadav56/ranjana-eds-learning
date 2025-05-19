@@ -9,23 +9,18 @@
 .block.quote.bg-blue {
     background-color: blueviolet;
     color: white;
+    border-radius: 0 25px;
 }
 
 .block.quote.bg-red {
     background-color: #e49393;
     color: black;
+    border-radius: 25px;
 }
 
 .block.quote.bg-green {
     background-color: yellowgreen;
     color: black;
-}
-
-.block.quote.rounded-borders {
-    border-radius: 25px;
-}
-
-.block.quote.rounded-diagonal {
     border-radius: 0 25px;
 }
 
